@@ -9,28 +9,28 @@ Currently, two official plugins are available:
 
 https://www.youtube.com/watch?v=5ZdHfJVAY-s
 
-Accordion
-Random Color Generator  
-Star Rating
-Image Slider
-Load More Button
-Tree View / Menu UI / Recursive Navigation Menu
-QR Code Generator
-Light and Dark Mode / Theme Switch / Dark Theme
-Scroll Indicator
-Tabs
-Modal Popup
-Github Profile Finder
-Search Autocomplete with API implementation
-Tic Tac Toe
-Feature Flag Implementation
-useFetch Custom Hook
-useOnclickOutside Custom Hook
-useWindowResize / useResponsive Custom Hook
-Scroll to Top and Bottom
-Scroll to Particular Section
-Weather App
-Food Recipe App
-Shopping Cart App
-Expense Tracker App
-Mern Stack Blog App
+ 1. Accordion
+ 2. Random Color Generator  
+ 3. Star Rating
+ 4. Image Slider
+ 5. Load More Button
+ 6. Tree View / Menu UI / Recursive Navigation Menu
+ 7. QR Code Generator
+ 8. Light and Dark Mode / Theme Switch / Dark Theme
+ 9. Scroll Indicator
+10. Tabs
+11. Modal Popup
+12. Github Profile Finder
+13. Search Autocomplete with API implementation
+14. Tic Tac Toe
+15. Feature Flag Implementation
+16. useFetch Custom Hook
+17. useOnclickOutside Custom Hook
+19. useWindowResize / useResponsive Custom Hook
+20. Scroll to Top and Bottom
+21. Scroll to Particular Section
+22. Weather App
+23. Food Recipe App
+24. Shopping Cart App
+25. Expense Tracker App
+26. Mern Stack Blog App
