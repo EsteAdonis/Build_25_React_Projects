@@ -5,8 +5,9 @@ import './App.css'
 // import RandomColor from './components/2_Random-Color/Random.Color';
 // import StarRating from './components/3_Star-Rating/Star.Rating';
 //import ImageSlider from './components/4_Image-Slider/Image.Slider';
-import TreeView from './components/5_tree-view/TreeView.jsx';
-import menus from "./components/5_tree-view/data";
+// import TreeView from './components/5_tree-view/TreeView.jsx';
+// import menus from "./components/5_tree-view/data";
+import LoadMoreData from './components/6_load-more-data/Load-More-Data';
 
 export default function App() {
 
@@ -17,7 +18,9 @@ export default function App() {
     //   limit={"10"} />
     //* Tree view component/menu UI component / recursive navigation menu */ 
       
-    <TreeView menus = { menus } />
+    // <TreeView menus = { menus } />
+    
+    <LoadMoreData />
     )
 }
 
